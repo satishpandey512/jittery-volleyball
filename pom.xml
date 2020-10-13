@@ -32,7 +32,7 @@
     <awaitility.version>3.1.0</awaitility.version>
     <commons-logging.version>1.2</commons-logging.version>
     <javax.json.version>1.0.3</javax.json.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <openjdk18-openshift.version>latest</openjdk18-openshift.version>
     <rest-assured.version>3.1.0</rest-assured.version>
     <spring-boot-bom.version>2.1.13.Beta1</spring-boot-bom.version>
